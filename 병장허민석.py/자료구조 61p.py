@@ -24,5 +24,3 @@ myList.extend([77, 88, 77])
 print("extend([77, 88, 77]) 후의 리스트 : %s" %myList)
 
 print("77 값의 개수 : %d" %myList.count(77))
-
-dddd
