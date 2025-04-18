@@ -36,3 +36,5 @@ if __name__ == "__main__" :
 
     pxValue = calcPoly(xValue, px)
     print(pxValue)
+
+    왜 안되는갸...
